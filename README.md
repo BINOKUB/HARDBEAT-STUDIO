@@ -50,5 +50,4 @@ Chaque synthétiseur possède sa propre chaîne audio isolée :
 **Un projet imaginé et développé par BINOKUB.**
 
 * 🌐 **Site Web / Jeux & Projets :** [binokub.com](https://binokub.com)
-* 💻 **GitHub :** [Mon Profil GitHub](https://github.com/TON_NOM_UTILISATEUR)
-* 🎧 **Design & Audio Engine :** Conçu pour la performance, la stabilité et le groove absolu.
+* 🎧 **Design & Audio Engine :** Conçu pour la performance, la stabilité et le groove.
