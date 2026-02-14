@@ -5,7 +5,7 @@
 ![Status](https://img.shields.io/badge/Status-Production_Ready-ccff00?style=for-the-badge)
 
 <p align="center">
-  <img src="URL_DE_TA_CAPTURE_D_ECRAN_ICI.png" alt="Interface Hardbeat Pro Studio" width="800">
+  <img src="banniere-hardbeat-studio.png" alt="Interface Hardbeat Pro Studio" width="800">
 </p>
 
 > *"L'usine à Hardgroove : 4 canaux, séquenceur matriciel, drones infinis et mixage live, réunis au sein d'une seule interface Dark Neon."*
